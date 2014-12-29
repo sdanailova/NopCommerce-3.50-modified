@@ -1,0 +1,74 @@
+﻿@model HeaderModel
+@using Nop.Web.Extensions
+@using Nop.Web.Models.Common;
+@using Nop.Core
+@using Nop.Core.Domain.Tax
+@using Nop.Core.Infrastructure
+
+<div class="navbar navbar-default navbar-fixed-top top-menu" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".test">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse test">
+            @Html.Widget("header")
+            @Html.Action("HeaderLinks", "Common")
+            @*@Html.Action("FlyoutShoppingCart", "ShoppingCart")*@
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            @Html.Partial("_Notifications")
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <a href="@Url.RouteUrl("HomePage")" class="logo">&nbsp; </a>
+        </div>
+
+        <div class="col-md-8">
+            <div class="search-box col-lg-8 col-md-8 col-sm-12 col-xs-12 pull-right">
+                @Html.Action("SearchBox", "Catalog")
+            </div>
+           <br/>
+            <div class="myicons">
+                <div class="social-icons">
+                    <ul>
+                        @if (!string.IsNullOrEmpty(Model.GooglePlusLink))
+                        {
+                            <li class="icon google-plus"><a href="@Model.GooglePlusLink" target="_blank"><i class="fa fa-google-plus fa-fw"></i></a></li>
+                        }
+                        @if (!string.IsNullOrEmpty(Model.YoutubeLink))
+                        {
+                            <li class="icon youtube"><a href="@Model.YoutubeLink" target="_blank"><i class="fa fa-youtube fa-fw"></i></a></li>
+                        }
+                        @if (!string.IsNullOrEmpty(Model.TwitterLink))
+                        {
+                            <li class="icon twitter"><a href="@Model.TwitterLink" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+                        }
+                        @if (!string.IsNullOrEmpty(Model.FacebookLink))
+                        {
+                            <li class="icon facebook"><a href="@Model.FacebookLink" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
+                        }
+
+                    </ul>
+                </div>
+            </div>
+            @*@Html.Widget("header_selectors")*@
+        </div>
+        
+
+    </div>
+    
+<div class="down-space-30"></div>
+
+

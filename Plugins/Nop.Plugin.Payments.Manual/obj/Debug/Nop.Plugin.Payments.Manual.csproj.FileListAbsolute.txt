@@ -1,0 +1,11 @@
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

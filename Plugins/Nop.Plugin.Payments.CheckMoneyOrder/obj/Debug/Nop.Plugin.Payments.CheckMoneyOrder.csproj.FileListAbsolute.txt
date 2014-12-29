@@ -1,0 +1,10 @@
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\Configure.cshtml
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\PaymentInfo.cshtml
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb

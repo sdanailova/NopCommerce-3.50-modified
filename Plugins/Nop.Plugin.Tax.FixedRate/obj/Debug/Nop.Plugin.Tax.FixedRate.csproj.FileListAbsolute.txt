@@ -1,0 +1,10 @@
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.FixedRate\web.config
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.FixedRate\Views\TaxFixedRate\Configure.cshtml
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.FixedRate\logo.jpg
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll.config
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+D:\NopSite\3.50\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
+D:\NopSite\3.50\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
+D:\NopSite\3.50\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb
