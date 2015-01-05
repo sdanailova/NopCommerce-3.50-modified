@@ -8,3 +8,13 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\ShippingFedex\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb

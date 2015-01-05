@@ -66,3 +66,34 @@ function displayBootstrapModal(id) {
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-547c1e815dfae52d" async="async"></script>
+
+
+<script type="text/javascript">
+
+    var message = "Sorry, Right Clicks have been disabled"; // Message for the alert box
+
+    // Don't edit below!
+
+    function click(e) {
+        if (document.all) {
+            if (event.button == 2 || event.button == 3) {
+                alert(message);
+                return false;
+            }
+        }
+        else {
+            if (e.button == 2 || e.button == 3) {
+                e.preventDefault();
+                e.stopPropagation();
+                alert(message);
+                return false;
+            }
+        }
+    }
+    if (document.all) {
+        document.onmousedown = click;
+    }
+    else {
+        document.onclick = click;
+    }
+</script>

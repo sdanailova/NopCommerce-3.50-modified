@@ -8,3 +8,13 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.
 D:\NopSite\3.50\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\Views\SmsVerizon\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb

@@ -8,3 +8,13 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plug
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Views\ShippingFixedRate\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb

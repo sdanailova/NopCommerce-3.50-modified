@@ -11,3 +11,16 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shippi
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\EditPopup.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\_CreateOrUpdate.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\AddPopup.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb

@@ -1553,38 +1553,51 @@ namespace Nop.Admin.Controllers
         [HttpPost]
         public ActionResult RelatedProductList(DataSourceRequest command, int productId)
         {
-            if (!_permissionService.Authorize(StandardPermissionProvider.ManageProducts))
-                return AccessDeniedView();
+			if (!_permissionService.Authorize(StandardPermissionProvider.ManageProducts))
+				return AccessDeniedView();
 
-            //a vendor should have access only to his products
-            if (_workContext.CurrentVendor != null)
-            {
-                var product = _productService.GetProductById(productId);
-                if (product != null && product.VendorId != _workContext.CurrentVendor.Id)
-                {
-                    return Content("This is not your product");
-                }
-            }
+			//a vendor should have access only to his products
+			var product = _productService.GetProductById(productId);
+			if (_workContext.CurrentVendor != null)
+			{
+				if (product != null && product.VendorId != _workContext.CurrentVendor.Id)
+				{
+					return Content("This is not your product");
+				}
+			}
 
-            var relatedProducts = _productService.GetRelatedProductsByProductId1(productId, true);
-            var relatedProductsModel = relatedProducts
-                .Select(x => new ProductModel.RelatedProductModel
-                {
-                    Id = x.Id,
-                    //ProductId1 = x.ProductId1,
-                    ProductId2 = x.ProductId2,
-                    Product2Name = _productService.GetProductById(x.ProductId2).Name,
-                    DisplayOrder = x.DisplayOrder
-                })
-                .ToList();
 
-            var gridModel = new DataSourceResult
-            {
-                Data = relatedProductsModel,
-                Total = relatedProductsModel.Count
-            };
 
-            return Json(gridModel);
+			var relatedProducts = _productService.GetRelatedProductsByProductId1(productId, true);
+
+			var relatedProductsModel = relatedProducts
+				.Select(x =>
+				{
+					var pictures = _pictureService.GetPicturesByProductId(x.ProductId2);
+					var pictureThumbnailUrl = _pictureService.GetPictureUrl(pictures.FirstOrDefault(), 75, false);
+					//little hack here. Grid is rendered wrong way with <inmg> without "src" attribute
+					if (String.IsNullOrEmpty(pictureThumbnailUrl))
+						pictureThumbnailUrl = _pictureService.GetPictureUrl(null, 1, true);
+
+					return new ProductModel.RelatedProductModel()
+					{
+						Id = x.Id,
+						//ProductId1 = x.ProductId1,
+						ProductId2 = x.ProductId2,
+						Product2Name = _productService.GetProductById(x.ProductId2).Name,
+						DisplayOrder = x.DisplayOrder,
+						PictureThumbnailUrl = pictureThumbnailUrl
+					};
+				})
+				.ToList();
+
+			var gridModel = new DataSourceResult()
+			{
+				Data = relatedProductsModel,
+				Total = relatedProductsModel.Count
+			};
+
+			return Json(gridModel);
         }
 
         [HttpPost]
@@ -1680,31 +1693,48 @@ namespace Nop.Admin.Controllers
         [HttpPost]
         public ActionResult RelatedProductAddPopupList(DataSourceRequest command, ProductModel.AddRelatedProductModel model)
         {
-            if (!_permissionService.Authorize(StandardPermissionProvider.ManageProducts))
-                return AccessDeniedView();
+			if (!_permissionService.Authorize(StandardPermissionProvider.ManageProducts))
+				return AccessDeniedView();
 
-            //a vendor should have access only to his products
-            if (_workContext.CurrentVendor != null)
-            {
-                model.SearchVendorId = _workContext.CurrentVendor.Id;
-            }
+			//a vendor should have access only to his products
+			if (_workContext.CurrentVendor != null)
+			{
+				model.SearchVendorId = _workContext.CurrentVendor.Id;
+			}
 
-            var products = _productService.SearchProducts(
-                categoryIds: new List<int> { model.SearchCategoryId },
-                manufacturerId: model.SearchManufacturerId,
-                storeId: model.SearchStoreId,
-                vendorId: model.SearchVendorId,
-                productType: model.SearchProductTypeId > 0 ? (ProductType?)model.SearchProductTypeId : null,
-                keywords: model.SearchProductName,
-                pageIndex: command.Page - 1,
-                pageSize: command.PageSize,
-                showHidden: true
-                );
-            var gridModel = new DataSourceResult();
-            gridModel.Data = products.Select(x => x.ToModel());
-            gridModel.Total = products.TotalCount;
+			var products = _productService.SearchProducts(
+				categoryIds: new List<int>() { model.SearchCategoryId },
+				manufacturerId: model.SearchManufacturerId,
+				storeId: model.SearchStoreId,
+				vendorId: model.SearchVendorId,
+				productType: model.SearchProductTypeId > 0 ? (ProductType?)model.SearchProductTypeId : null,
+				keywords: model.SearchProductName,
+				pageIndex: command.Page - 1,
+				pageSize: command.PageSize,
+				showHidden: true
+				);
+			var gridModel = new DataSourceResult();
+			gridModel.Data = products.Select(x =>
+			{
+				var productModel = x.ToModel();
+				//little hack here:
+				//ensure that product full descriptions are not returned
+				//otherwise, we can get the following error if products have too long descriptions:
+				//"Error during serialization or deserialization using the JSON JavaScriptSerializer. The length of the string exceeds the value set on the maxJsonLength property. "
+				//also it improves performance
+				productModel.FullDescription = "";
 
-            return Json(gridModel);
+				if (_adminAreaSettings.DisplayProductPictures)
+				{
+					var defaultProductPicture = _pictureService.GetPicturesByProductId(x.Id, 1).FirstOrDefault();
+					productModel.PictureThumbnailUrl = _pictureService.GetPictureUrl(defaultProductPicture, 75, true);
+				}
+				productModel.ProductTypeName = x.ProductType.GetLocalizedEnum(_localizationService, _workContext);
+				return productModel;
+			});
+			gridModel.Total = products.TotalCount;
+
+			return Json(gridModel);
         }
 
         [HttpPost]

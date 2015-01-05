@@ -8,3 +8,13 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.
 D:\NopSite\3.50\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Views\TaxCountryStateZip\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb

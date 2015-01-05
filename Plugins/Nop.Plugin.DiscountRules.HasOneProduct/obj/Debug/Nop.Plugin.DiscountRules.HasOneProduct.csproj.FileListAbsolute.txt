@@ -9,3 +9,14 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plu
 D:\NopSite\3.50\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb
 D:\NopSite\3.50\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\ProductAddPopup.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

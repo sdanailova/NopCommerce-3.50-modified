@@ -12,3 +12,17 @@ D:\NopSite\3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.Ex
 D:\NopSite\3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\PublicInfo.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb

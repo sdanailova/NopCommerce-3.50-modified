@@ -1,0 +1,12 @@
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\PaymentInfo.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo2.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

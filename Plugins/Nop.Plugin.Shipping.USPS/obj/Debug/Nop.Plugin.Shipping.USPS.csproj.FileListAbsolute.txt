@@ -8,3 +8,13 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.U
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\ShippingUSPS\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

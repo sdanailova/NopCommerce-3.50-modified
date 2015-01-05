@@ -1,0 +1,85 @@
+﻿@{
+    Layout = "";
+}
+
+@model ConfigureModel
+
+@using panoRazzi.SeoOptimizer.Models;
+@using Nop.Web.Framework;
+
+@using (Html.BeginForm())
+{
+    <table class="adminContent">
+        <tr>
+            <td class="adminTitle">&nbsp;</td>
+            <td class="adminData">
+                <p>
+                    Thank you for downloading & using this plugin! If you have any feedbacks on the
+                    plugin, please feel free to e-mail them to 
+                    <a href="mailto:feedback@pronopcommerce.com">feedback@pronopcommerce.com</a>.
+                </p>
+                <p>
+                    If you need nopCommerce plugin or theme development service, please feel free 
+                    to discuss with me by sending your request to 
+                    <a href="mailto:project@pronopcommerce.com">project@pronopcommerce.com</a>.
+                </p>
+                <p>
+                    Last but not least, please visit <a href="http://www.pronopcommerce.com">
+                        Pro nopCommerce</a> to get more tips & trick on nopCommerce!
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.Domain):
+            </td>
+            <td class="adminData">
+                @Html.TextBoxFor(model => model.Domain)
+                @Html.ValidationMessageFor(model => model.Domain)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.ProductKey):
+            </td>
+            <td class="adminData">
+                @Html.TextBoxFor(model => model.ProductKey)
+                @Html.ValidationMessageFor(model => model.ProductKey)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.BlockedUrls):
+            </td>
+            <td class="adminData">
+                @Html.TextAreaFor(model => model.BlockedUrls, new { row = "10", col = "50" })
+                @Html.ValidationMessageFor(model => model.BlockedUrls)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.HomePageMetaDescription):
+            </td>
+            <td class="adminData">
+                @Html.TextAreaFor(model => model.HomePageMetaDescription, new { row = "10", col = "50" })
+                @Html.ValidationMessageFor(model => model.HomePageMetaDescription)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
+                @Html.NopLabelFor(model => model.OptimizeImages):
+            </td>
+            <td class="adminData">
+                @Html.CheckBoxFor(m => m.OptimizeImages)
+                @Html.ValidationMessageFor(model => model.OptimizeImages)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">&nbsp;
+            </td>
+            <td class="adminData">
+                <input type="submit" name="save" class="t-button" value="@T("Admin.Common.Save")" />
+            </td>
+        </tr>
+    </table>
+}

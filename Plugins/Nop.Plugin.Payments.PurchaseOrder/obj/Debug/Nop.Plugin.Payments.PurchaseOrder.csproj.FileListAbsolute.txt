@@ -8,3 +8,14 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.P
 D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
 D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

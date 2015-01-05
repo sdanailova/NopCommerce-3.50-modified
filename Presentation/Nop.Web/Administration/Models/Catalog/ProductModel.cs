@@ -520,6 +520,9 @@ namespace Nop.Admin.Models.Catalog
         {
             public int ProductId2 { get; set; }
 
+			[NopResourceDisplayName("Admin.Catalog.Products.RelatedProducts.Fields.PictureThumbnailUrl")]
+			public string PictureThumbnailUrl { get; set; }
+
             [NopResourceDisplayName("Admin.Catalog.Products.RelatedProducts.Fields.Product")]
             public string Product2Name { get; set; }
             

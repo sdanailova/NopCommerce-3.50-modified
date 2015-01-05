@@ -1,0 +1,11 @@
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByTotal\Views\ShippingByTotal\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByTotal\license.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByTotal\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByTotal\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByTotal\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByTotal\Nop.Plugin.Shipping.ByTotal.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Shipping.ByTotal\Nop.Plugin.Shipping.ByTotal.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.ByTotal\obj\Debug\Nop.Plugin.Shipping.ByTotal.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.ByTotal\obj\Debug\Nop.Plugin.Shipping.ByTotal.g.resources
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.ByTotal\obj\Debug\Nop.Plugin.Shipping.ByTotal.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Shipping.ByTotal\obj\Debug\Nop.Plugin.Shipping.ByTotal.pdb

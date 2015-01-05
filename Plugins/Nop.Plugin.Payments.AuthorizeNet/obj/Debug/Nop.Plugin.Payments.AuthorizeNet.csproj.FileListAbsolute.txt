@@ -9,3 +9,14 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Pa
 D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

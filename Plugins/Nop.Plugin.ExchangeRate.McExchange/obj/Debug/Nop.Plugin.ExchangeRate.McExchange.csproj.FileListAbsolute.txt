@@ -6,3 +6,11 @@ D:\NopSite\3.50\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.
 D:\NopSite\3.50\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
 D:\NopSite\3.50\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
 D:\NopSite\3.50\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll.config
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\NopSite\Site_3.50\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
+D:\NopSite\Site_3.50\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
